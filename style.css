@@ -1,0 +1,482 @@
+
+body
+{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  
+    background:#000 url(http://www.script-tutorials.com/demos/360/images/stars.png) repeat top center;
+    z-index:0;
+    background-size: 100%;
+    user-select: none;
+}
+
+        /*------------box1-------------*/
+img
+{
+   position: absolute;
+  width: 1208px;
+  top: 57%;
+  left: 0%;
+  
+  
+}
+
+#sheap
+{
+  position: absolute;
+  top: 8%;
+  width: 41%;
+  left: 65%;
+}
+.head h2
+{
+  position: absolute;
+  left: 10%;
+  top: 32.5%;
+  font-size: 1em;
+  color: white;
+  z-index: 5;
+  font-family: Arial;
+  
+  
+}
+h1
+{
+  position: absolute;
+  color: white;
+  font-family: Arial;
+  width: 45%;
+  font-size: 2.8em;
+  top: 21%;
+  left: 5%;
+  font-weight: 900;
+  
+}
+p
+{
+   position: absolute;
+  color: white;
+  font-family: Arial;
+  width: 45%;
+  top: 38%;
+  left: 5%;
+}
+/****/
+.head{
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  z-index: 9;
+  background:#000 url(http://www.script-tutorials.com/demos/360/images/stars.png) repeat top center;
+  opacity: 1;
+}
+.head ul
+{
+  position: relative;
+  
+  left: 120vh;
+  margin-top: 49px;
+  
+  
+}
+
+nav ul li
+{
+  display: inline;
+  list-style: none;
+  margin: 20px;
+  
+  font-family: Arial;
+  
+  
+}
+.head ul li a{
+  text-decoration: none;
+  color: white;
+ 
+}
+
+#button a
+{
+ 
+  background: yellow;
+  padding: 12px 25px;
+  border-radius: 20px;
+  border: none;
+  color: black;
+  
+ 
+}
+#icon
+{
+  position: absolute;
+  width: 11%;
+  top: 15%;
+  left: 1%;
+}
+/***/
+#logo
+{
+  position: absolute;
+  width: 22%;
+  top: 50%;
+  left: 64%;
+}
+#among{
+  width: 100vh;
+  margin-left: 10px;
+  top: 50vh;
+
+}
+
+       /*------------box1-------------*/
+
+      /*------------box2-------------*/
+.box2 img
+{
+  position: absolute;
+  width: 63%;
+  top: 127%;
+  left: -18%;
+}
+#img
+{
+  position: absolute;
+  top: 90%;
+  left: 10%;
+  width: 35%;
+  
+  
+}
+#pad{
+  margin-left: 40px;
+  
+}
+.box2 h1
+{
+  position: absolute;
+  top: 140%;
+  left: 51%;
+  width: 30%;
+  font-size: 2.7em;
+}
+.box2 p
+{
+  position: absolute;
+  top: 170%;
+  width: 23%;
+  left: 51.5%;
+  
+}
+
+#vent
+{
+  position: absolute;
+  top: 178%;
+  left: 79%;
+  width: 13%;
+  
+}
+#box2 img
+{
+  width: 30%;
+  top: -20%;
+  left: 35%;
+  
+}
+#yellow
+{
+  position: absolute;
+  width: 7%;
+  left: 51%;
+  top: 130%;
+}
+      /*------------box2-------------*/
+
+      /*------------box3-------------*/
+      .box3 img
+      {
+        top: 211%;
+        left: 16%;
+        width: 65%;
+      }
+     
+      #one
+      {
+        position: absolute;
+      left: 50%;
+        opacity: 0.5;
+        z-index: 0;
+        width: 55%;
+        top: 216%;
+      }
+      #two
+      {
+        position: absolute;
+      left:-20%;
+        top: 216%;
+        width: 55%;
+        height: 57.5vh;
+        opacity: 0.5;
+        z-index: -2;
+      }
+      /*------------box3-------------*/
+
+      /*------------box4-------------*/
+
+.box4 img
+{
+  position: absolute;
+  top: 305%;
+  width:60%;
+  left: 45%;
+}
+#vector
+{
+  position: absolute;
+  top: 251%;
+  left: 68%;
+  width: 15%;
+}
+#bons1
+{
+  position: absolute;
+  left: 53%;
+  width: 15%;
+  top: 342%;
+}
+#bons2
+{
+  position: absolute;
+  width: 14%;
+  top: 346%;
+  left: 66%;
+}
+.box4 h1
+{
+  position: absolute;
+  font-size: 2.8em;
+  top: 318%;
+  font-family: Arial;
+}
+.box4 p
+{
+  position: absolute;
+  top: 334%;
+  left: 15%;
+  width: 24%;
+  font-size: 1.5rem;
+}
+
+#cyan
+{
+  position: absolute;
+  width: 5%;
+  left: 5%;
+  top: 312%;
+}
+#vent2
+{
+  position: absolute;
+  top: 351%;
+  width: 14%;
+  left: 3%;
+}
+      /*------------box4-------------*/
+
+      /*------------box5-------------*/
+#messag
+{
+  position: absolute;
+  top: 404%;
+  left: -9%;
+  width: 50%;
+}
+#white
+{
+  position: absolute;
+  top: 414%;
+  width: 6%;
+  left: 49%;
+}
+#void
+{
+  position: absolute;
+  top: 444%;
+  left: 20%;
+  width: 17%;
+}
+
+.box5 h1
+{
+  top: 423%;
+  left: 49%;
+  width: 25%;
+}
+.box5 p
+{
+  top: 445%;
+  left: 49%;
+  width: 34%;
+  font-size: 1.5rem;
+  
+}
+      /*---------------box5------------------*/
+
+      /*------------section-boxs-------------*/
+
+#box1,#box2,#box3
+{
+  position: absolute;
+  width:20%;
+  height: 25vh;
+  background: none;
+  border: 2px solid #322454;
+  border-radius: 15px;
+  cursor: pointer;
+  
+  
+}
+.box6 h1
+{
+  position: absolute;
+  top: 492%;
+  left: 35%;
+  
+}
+.box6 h1 rb
+{
+  position: absolute;
+  top: 100%;
+  left: 15%;
+}
+
+#box1
+{
+  left: 5%;
+  top: 530%;
+  
+}
+#box2
+{
+  left: 38%;
+  top: 530%;
+}
+#box3
+{
+  left: 70%;
+  top: 530%;
+}
+#box1 h1
+{
+font-size: 1.5em;
+  width: 60%;
+  left: 25%;
+  top: 15%;
+}
+#box1 p
+{
+  width: 70%;
+  top: 56%;
+  left: 19%;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#box2 h1
+{
+font-size: 1.5em;
+  width: 60%;
+  left: 25%;
+  top: 15%;
+}
+#box2 p
+{
+  width: 70%;
+  top: 56%;
+  left: 19%;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#box3 h1
+{
+font-size: 1.5em;
+  width: 60%;
+  left: 25%;
+  top: 15%;
+}
+#box3 p
+{
+  width: 70%;
+  top: 56%;
+  left: 19%;
+  font-size: 1.2em;
+  text-align: center;
+}
+#box1 img
+{
+  top: -23%;
+  left: 34%;
+  width: 30%;
+}
+
+#box3 img
+{
+  position: absolute;
+  width: 30%;
+  top: -20%;
+  left: 35%;
+  z-index: 5;
+  
+}
+      /*------------section-boxs-------------*/
+
+      /*---------------box5------------------*/
+
+.box7 h1
+{
+  position: absolute;
+  top: 579%;
+  left: 40%;
+  width: 50%;
+}
+#caracter
+{
+  top: 600%;
+  left: 0%;
+  width: 100%;
+  
+}
+
+
+
+#link1
+{
+  top: 604%;
+  left: 30%;
+  width: 16%;
+  cursor: pointer;
+}
+#link2
+{
+  top: 605%;
+  left: 50%;
+  width: 15%;
+  cursor: pointer;
+}
+#link3{
+  top: 605.5%;
+  left: 70%;
+  width: 14.5%;
+  cursor: pointer;
+}
+#link4{
+  top: 605.5%;
+  left: 10%;
+  width: 14.5%;
+  cursor: pointer;
+}
+      /*--------------box7-------------*/
+
